@@ -1,0 +1,14 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:RestaurantSimulator.ViewModels"
+             x:Class="RestaurantSimulator.Views.ActiveStepView"
+             x:DataType="vm:ActiveStepViewModel">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Spacing="20">
+        <Image Source="{Binding StepImage}" Width="200" Height="200"/>
+        <Button Content="¡Click Aquí!" 
+                Command="{Binding IncrementClickCommand}"
+                Width="150" Height="40"/>
+        <ProgressBar Value="{Binding ClickProgress}" Height="20" Width="300"/>
+        <TextBlock Text="{Binding CurrentClicks, StringFormat='{}{0}/{1} clicks'}"/>
+    </StackPanel>
+</UserControl>

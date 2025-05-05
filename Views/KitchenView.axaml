@@ -1,0 +1,16 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:RestaurantSimulator.ViewModels"
+             x:Class="RestaurantSimulator.Views.KitchenView"
+             x:DataType="vm:KitchenViewModel">
+    <Grid>
+        <Image Source="assets/kitchen_bg.png" Stretch="UniformToFill"/>
+        <ItemsControl ItemsSource="{Binding ActiveEquipment}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Canvas/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+        </ItemsControl>
+    </Grid>
+</UserControl>

@@ -24,5 +24,17 @@ build_property.EnableCodeStyleSeverity =
 [C:/Users/david/OneDrive/Documentos/Uni/AOOP/Assignment4/RestaurantSimulator/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/david/OneDrive/Documentos/Uni/AOOP/Assignment4/RestaurantSimulator/Views/ActiveStep.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/david/OneDrive/Documentos/Uni/AOOP/Assignment4/RestaurantSimulator/Views/InventoryView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/david/OneDrive/Documentos/Uni/AOOP/Assignment4/RestaurantSimulator/Views/KitchenView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/david/OneDrive/Documentos/Uni/AOOP/Assignment4/RestaurantSimulator/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/david/OneDrive/Documentos/Uni/AOOP/Assignment4/RestaurantSimulator/Views/RecipeView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
