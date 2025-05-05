@@ -1,0 +1,131 @@
+{
+    "recipe_images": [
+        {
+            "recipe_name": "Margherita Pizza",
+            "recipe_image": "assets/pizza.png",
+            "step_images": [
+                { "step": "Preheat the oven", "image": "assets/oven.png" },
+                { "step": "Prepare the dough", "image": "assets/dough.png" },
+                { "step": "Spread tomato sauce", "image": "assets/sauce.png" },
+                { "step": "Add cheese and basil", "image": "assets/topping.png" },
+                { "step": "Bake the pizza", "image": "assets/baking.png" }
+            ]
+        },
+        {
+            "recipe_name": "Pasta Pomodoro",
+            "recipe_image": "assets/pasta.png",
+            "step_images": [
+                { "step": "Boil water", "image": "assets/boiling.png" },
+                { "step": "Cook pasta", "image": "assets/cooking.png" },
+                { "step": "Prepare tomato sauce", "image": "assets/tomato_sauce.png" },
+                { "step": "Mix pasta and sauce", "image": "assets/mixing.png" }
+            ]
+        },
+        {
+            "recipe_name": "Grilled Chicken with Garlic Butter",
+            "recipe_image": "assets/chicken.png",
+            "step_images": [
+                { "step": "Marinate the chicken", "image": "assets/marinate.png" },
+                { "step": "Preheat the grill", "image": "assets/grill.png" },
+                { "step": "Grill the chicken", "image": "assets/grilling.png" },
+                { "step": "Prepare garlic butter sauce", "image": "assets/garlic_butter.png" },
+                { "step": "Brush garlic butter on chicken", "image": "assets/brushing.png" }
+            ]
+        },
+        {
+            "recipe_name": "Beef Stroganoff",
+            "recipe_image": "assets/beef.png",
+            "step_images": [
+                { "step": "Slice beef into strips", "image": "assets/slicing.png" },
+                { "step": "Saute onions and mushrooms", "image": "assets/saute.png" },
+                { "step": "Add beef and sear", "image": "assets/searing.png" },
+                { "step": "Prepare sauce with sour cream", "image": "assets/sauce_prep.png" },
+                { "step": "Simmer for flavors to develop", "image": "assets/simmering.png" }
+            ]
+        },
+        {
+            "recipe_name": "Chocolate Pancakes",
+            "recipe_image": "assets/pancakes.png",
+            "step_images": [
+                { "step": "Mix dry ingredients", "image": "assets/mixing_dry.png" },
+                { "step": "Add milk and eggs", "image": "assets/adding_wet.png" },
+                { "step": "Whisk until smooth", "image": "assets/whisking.png" },
+                { "step": "Cook pancakes on frying pan", "image": "assets/cooking_pancakes.png" },
+                { "step": "Serve with toppings", "image": "assets/serving.png" }
+            ]
+        },
+        {
+            "recipe_name": "Seafood Paella",
+            "recipe_image": "assets/paella.png",
+            "step_images": [
+                { "step": "Prepare seafood and chop vegetables", "image": "assets/prepping.png" },
+                { "step": "Sauté onions, garlic, and bell peppers", "image": "assets/saute_veggies.png" },
+                { "step": "Add rice and spices", "image": "assets/adding_rice.png" },
+                { "step": "Pour in broth and simmer", "image": "assets/simmering_paella.png" },
+                { "step": "Add seafood and cook until done", "image": "assets/adding_seafood.png" },
+                { "step": "Garnish with lemon and parsley", "image": "assets/garnishing.png" }
+            ]
+        },
+        {
+            "recipe_name": "Vegetable Stir Fry",
+            "recipe_image": "assets/stir_fry.png",
+            "step_images": [
+                { "step": "Chop assorted vegetables", "image": "assets/chopping.png" },
+                { "step": "Heat wok and add oil", "image": "assets/heating_wok.png" },
+                { "step": "Stir-fry vegetables over high heat", "image": "assets/stir_frying.png" },
+                { "step": "Add soy sauce and seasonings", "image": "assets/adding_sauce.png" },
+                { "step": "Toss and serve immediately", "image": "assets/tossing.png" }
+            ]
+        },
+        {
+            "recipe_name": "Lamb Curry",
+            "recipe_image": "assets/curry.png",
+            "step_images": [
+                { "step": "Marinate lamb with spices", "image": "assets/marinating.png" },
+                { "step": "Brown lamb in a pot", "image": "assets/browning.png" },
+                { "step": "Grind spices and sauté onions", "image": "assets/grinding_spices.png" },
+                { "step": "Add lamb, tomatoes, and coconut milk", "image": "assets/adding_ingredients.png" },
+                { "step": "Simmer until lamb is tender", "image": "assets/simmering_curry.png" },
+                { "step": "Finish with fresh cilantro", "image": "assets/garnish_herbs.png" }
+            ]
+        }
+    ],
+    "equipment_images": {
+        "Oven": "assets/equipment_oven.png",
+        "Rolling Pin": "assets/equipment_rolling_pin.png",
+        "Mixing Bowl": "assets/equipment_mixing_bowl.png",
+        "Stove": "assets/equipment_stove.png",
+        "Saucepan": "assets/equipment_saucepan.png",
+        "Colander": "assets/equipment_colander.png",
+        "Grill": "assets/equipment_grill.png",
+        "Bowl": "assets/equipment_bowl.png",
+        "Brush": "assets/equipment_brush.png",
+        "Frying Pan": "assets/equipment_frying_pan.png",
+        "Wooden Spoon": "assets/equipment_wooden_spoon.png",
+        "Wok": "assets/equipment_wok.png",
+        "Knife": "assets/equipment_knife.png",
+        "Cutting Board": "assets/equipment_cutting_board.png",
+        "Pot": "assets/equipment_pot.png",
+        "Spice Grinder": "assets/equipment_spice_grinder.png",
+        "Large Pan": "assets/equipment_large_pan.png",
+        "Spatula": "assets/equipment_spatula.png"
+    },
+    "ingredient_icons": {
+        "Tomato": "assets/icon_tomato.png",
+        "Onion": "assets/icon_onion.png",
+        "Cheese": "assets/icon_cheese.png",
+        "Basil": "assets/icon_basil.png",
+        "Pasta": "assets/icon_pasta.png",
+        "Chicken Breast": "assets/icon_chicken.png",
+        "Beef Steak": "assets/icon_beef.png",
+        "Mushroom": "assets/icon_mushroom.png",
+        "Garlic": "assets/icon_garlic.png",
+        "Olive Oil": "assets/icon_olive_oil.png",
+        "Butter": "assets/icon_butter.png",
+        "Flour": "assets/icon_flour.png",
+        "Eggs": "assets/icon_eggs.png",
+        "Milk": "assets/icon_milk.png",
+        "Salt": "assets/icon_salt.png",
+        "Pepper": "assets/icon_pepper.png"
+    }
+}
