@@ -1900,11 +1900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\OneDrive\\Documentos\\Uni\\AOOP\\Assignment4\\RestaurantSimulator\\RestaurantSimulator.csproj",
+      "projectUniqueName": "C:\\Users\\david\\OneDrive\\Documentos\\Uni\\SemesterProject2\\DRAFTS\\Draft\\RestaurantSimulator\\RestaurantSimulator.csproj",
       "projectName": "RestaurantSimulator",
-      "projectPath": "C:\\Users\\david\\OneDrive\\Documentos\\Uni\\AOOP\\Assignment4\\RestaurantSimulator\\RestaurantSimulator.csproj",
+      "projectPath": "C:\\Users\\david\\OneDrive\\Documentos\\Uni\\SemesterProject2\\DRAFTS\\Draft\\RestaurantSimulator\\RestaurantSimulator.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\OneDrive\\Documentos\\Uni\\AOOP\\Assignment4\\RestaurantSimulator\\obj\\",
+      "outputPath": "C:\\Users\\david\\OneDrive\\Documentos\\Uni\\SemesterProject2\\DRAFTS\\Draft\\RestaurantSimulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"

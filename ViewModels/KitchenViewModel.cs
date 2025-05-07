@@ -16,5 +16,6 @@ public class KitchenViewModel : ReactiveObject
     {
         get => _activeEquipment;
         private set => this.RaiseAndSetIfChanged(ref _activeEquipment, value);
+        Console.WriteLine(ActiveStepViewModel)
     }
 }
